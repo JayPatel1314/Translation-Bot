@@ -3,7 +3,7 @@ from googletrans import Translator
 from flask import Flask, request
 import os
 
-TOKEN = '<Token>'
+TOKEN = '1397634282:AAHEe4sNcIehkeXltcBWN_m9CX3XS4rMcuk'
 
 bot = telebot.TeleBot(TOKEN)
 
