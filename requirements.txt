@@ -1,0 +1,4 @@
+telebot
+googletrans 
+flask 
+os
