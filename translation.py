@@ -1,9 +1,6 @@
 import telebot
-
 from googletrans import Translator
-
 from flask import Flask, request
-
 import os
 
 TOKEN = '<Token>'
